@@ -1,7 +1,7 @@
 # Repor for Front END
 
-## To DO;
+## To DO
 
--[x] Hellogit
--[ ] Learnyounode
--[ ] Javascript
+- [x] Hellogit
+- [ ] Learnyounode
+- [ ] Javascript
